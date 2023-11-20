@@ -7,7 +7,6 @@
 
 // printing pattern- Square Hollow pattern
 
-import java.util.Scanner;
 public class SquareHollow{
     
     public static void printPattern(int n)
